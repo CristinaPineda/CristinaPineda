@@ -13,7 +13,9 @@ Explore esse mundo de códigos e não deixe de me dizer como melhorar!
 
 Skills: PYTHON / JS / HTML / CSS 
 
-<embed src="output_free.mp4" title="my-video" autostart="true" width="350px">
+<video width="350" controls>
+  
+<source src="output_free.mp4" title="my-video" type="video/mp4">
 
 
 - 🔭 I’m currently working on this page. 
