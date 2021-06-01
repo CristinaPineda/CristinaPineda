@@ -1,7 +1,7 @@
 ### Oi pessoal 👋, Meu nome é Cristina Pineda
 
 #### Sou uma desenvolvedora em desenvolvimento!
-![Sou uma desenvolvedora em desenvolvimento!](https://octodex.github.com/images/femalecodertocat.png = 350x350)
+<img src="(https://octodex.github.com/images/femalecodertocat.png"  width="350px")
 
 
 Após alguns anos desbravando mundos na área comercial, trabalhando com auditoria e sistemas de controladoria eis-me aqui no mundo dos códigos!! 
