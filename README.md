@@ -1,7 +1,10 @@
 ### Oi pessoal 👋, Meu nome é Cristina Pineda
 
-#### Sou uma desenvolvedora em desenvolvimento! :woman_technologist:
-<img src="https://octodex.github.com/images/femalecodertocat.png"  width="350px"/>
+ <div>
+  <a href="https://github.com/CristinaPineda">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CristinaPineda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaPineda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 Após alguns anos desbravando mundos na área comercial, trabalhando com auditoria e sistemas de controladoria eis-me aqui no mundo dos códigos!! 
