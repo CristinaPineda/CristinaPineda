@@ -7,13 +7,13 @@
 </div>
 
  
-<img alt='cris-git' src='https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor'/> 
-<img  alt='cris-css' src='https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor' />
-<img alt='cris-git' src='https://icongr.am/devicon/git-original.svg?size=50&color=currentColor'/> 
-<img alt='cris-git' src='https://icongr.am/devicon/github-original.svg?size=50&color=currentColor'/> 
-<img src='https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor' />
-<img src='https://icongr.am/devicon/python-original.svg?size=50&color=currentColor' />
-<img src='https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor' />
+<img align="center" alt='cris-git' src='https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor'/> 
+<img align="center" alt='cris-css' src='https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor' />
+<img align="center" alt='cris-git' src='https://icongr.am/devicon/git-original.svg?size=50&color=currentColor'/> 
+<img align="center" alt='cris-git' src='https://icongr.am/devicon/github-original.svg?size=50&color=currentColor'/> 
+<img align="center" src='https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor' />
+<img align="center" src='https://icongr.am/devicon/python-original.svg?size=50&color=currentColor' />
+<img align="center" src='https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor' />
 
 
 
