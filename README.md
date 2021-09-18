@@ -14,6 +14,13 @@
 <img align="center" src='https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor' />
 <img align="center" src='https://icongr.am/devicon/python-original.svg?size=50&color=currentColor' />
 <img align="center" src='https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor' />
+ <p align="left">
+  <br>
+  <img
+    src="https://komarev.com/ghpvc/?username=CristinaPineda&label=Profile%20views&color=0e75b6&style=flat"
+    alt="CristinaPineda"
+  />
+</p>
 
 
 
