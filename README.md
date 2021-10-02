@@ -1,6 +1,6 @@
 ### Oi pessoal 👋, Meu nome é Cristina Pineda
 
-<a href="https://cristinapineda.github.io/#/">Conheça meu portifólio</a> <spam>:dart:<spam>
+<a href="https://cristinapineda.github.io/#/" target="_blank">Conheça meu portifólio</a> <spam>:dart:<spam>
  
  <div>
   <a href="https://github.com/CristinaPineda">
