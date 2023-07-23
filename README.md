@@ -20,9 +20,15 @@
  Tenho dois gatos e um milhão de sonhos!   :smiley_cat: :smile_cat: :star2: :v: :dancer:
 </p>
 
-<p>Viu algo aqui que achou legal? Ahh me conta hein, quem não gosta de elogios?! :sunglasses: rsrsrs</p>
-<p>Tem algum projeto que que vocẽ faria diferente? Me conta também! :eyes:</p> 
-
+<div style="display: flex; flex-direction:row;">
+  <div>
+    <img src="vaca-abduzida.gif" alt="abdução" width="200px">
+  </div>
+  <div>
+    <p>Viu algo aqui que achou legal? Ahh me conta hein, quem não gosta de elogios?! 😎 rsrsrs</p>
+    <p>Tem algum projeto que você faria diferente? Me conta também! 👀</p> 
+  </div>
+</div>
 
 <a href="https://cristinapineda.github.io/#/" target="_blank">Conheça meu portifólio</a> <spam>:dart:<spam>
  
@@ -49,6 +55,7 @@
     alt="CristinaPineda"
   />
 </p>
+
 
 
 
