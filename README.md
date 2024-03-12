@@ -17,7 +17,7 @@
  <br>
  Viajar :airplane:
  <br>
- Tenho dois gatos e um milhão de sonhos!   :smiley_cat: :smile_cat: :star2: :v: :dancer:
+ Tenho três gatos e um milhão de sonhos!   :smiley_cat: :smile_cat: :star2: :v: :dancer:
 </p>
 
 <div style="display: flex; flex-direction:row;">
